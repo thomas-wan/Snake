@@ -1,2 +1,2 @@
 # Snake
-Snake game in python (OOP).
+A very modularized Snake game. OOP approach.
